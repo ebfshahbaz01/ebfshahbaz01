@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Java Swing Dashboard**
 
-- 🌱 I’m currently learning **TypeScript.js and Swift for (IOS) Development.**
+- 🌱 I’m currently learning **Cyber-Security.**
 
-- 👯 I’m looking to collaborate on **Linux Bash Scripting**
+- 👯 I’m looking to collaborate on **Markeeting Dashboard**
 
-- 👨‍💻 All of my projects are available at [https://www.portfolio-ebfshahbaz01.netlify.app](https://www.portfolio-ebfshahbaz01.netlify.app)
+- 👨‍💻 All of my projects are available at [My Website](https://www.portfolio-ebfshahbaz01.netlify.app)
 
-- 💬 Ask me about **React, C++ , Java and Python.**
+- 💬 Ask me about **React,Nodejs, MongoDB, ExpressJs, C++ (Basic+DSA), Java and Python.**
 
 - 📫 How to reach me **shahbazali078272@gmail.com**
 
-- 📄 Know about my experiences [https://www.portfolio-ebfshahbaz01.netlify.app](https://www.portfolio-ebfshahbaz01.netlify.app)
+- 📄 Know about my experiences [MyWebsite](https://www.portfolio-ebfshahbaz01.netlify.app)
 
 - ⚡ Fun fact **I easily trust anyone. After sometime it hurts most**
 
